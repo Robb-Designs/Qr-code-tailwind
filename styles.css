@@ -5,3 +5,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+#text-content{
+    margin-bottom: 1.5rem;
+}
+
+#card-container{
+    padding: .8rem;
+}
